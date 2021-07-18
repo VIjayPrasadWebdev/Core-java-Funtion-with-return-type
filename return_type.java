@@ -22,5 +22,6 @@ public class return_type {
         student s=new student();
        s.process(90,97,99);
         t=s.display();
+        System.out.println(t);
     }
 }
